@@ -1,5 +1,7 @@
 # Score system
 
+[Preliminary scores](https://disk.yandex.ru/i/DVirZzNlbUdPYg)
+
 * All forms: 1 score
 * Reports: maximum 4 scores
 * Labs: 4 scores
